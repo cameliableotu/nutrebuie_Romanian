@@ -34,7 +34,7 @@ var defaults = [
         as: ["1", "2", "3", "4", "5", "6", "7"],            /// What are options on Likert scale? Define both # of options and their labels.
         presentAsScale: true,                               /// Should it be presented as a scale? 'true' or 'false'
         instructions: "Use number keys or click boxes to answer.",    /// Brief instructions present on each trial
-        leftComment: "(Complet inacceptabil)", rightComment: "(Complet acceptabil)"        /// Labels on end-points of scale
+        leftComment: "(Complet inacceptabilǎ)", rightComment: "(Complet acceptabilǎ)"        /// Labels on end-points of scale
     },
     "Message", {
         hideProgressBar: true
