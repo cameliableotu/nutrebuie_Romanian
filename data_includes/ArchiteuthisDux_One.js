@@ -90,21 +90,21 @@ var items = [
                                       "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este‘Nu trebuie sǎ te îngrijorezi’ în contextul ‘Nu trebuie sǎ te îngrijorezi. Femeia îţi va da banii’.?"}],
 [["MODALITYNEGATION-necessarynot",1],  "Question", {q:" Ȋn ‘Nu trebuie sǎ te îngrijorezi. Te vei îmbolnǎvi altfel.’, ‘Nu trebuie sǎ te îngrijorezi’ înseamnǎ ",as: [['s','E necesar sǎ nu te îngrijorezi.'],['k','Nu e necesar sǎ te îngrijorezi.']]},
                                       "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Nu trebuie sǎ te îngrijorezi. Te vei îmbolnǎvi altfel’  în contextul  ‘Nu trebuie sǎ te îngrijorezi. Te vei îmbolnǎvi altfel’?"}],
-[["MODALITYNEGATION-notnecessary",2],  "Question",{q:" Ȋn ‘Nu trebuie sǎ te panichezi. Profesoara va da un test uşor.’, ‘Nu trebuie sǎ te panichezi’ înseamnǎ ",as: [['s', ‘E necesar sǎ nu te panichezi.'],['k','Nu e necesar sǎ te panichezi.']]}, 
+[["MODALITYNEGATION-notnecessary",2],  "Question",{q:" Ȋn ‘Nu trebuie sǎ te panichezi. Profesoara va da un test uşor.’, ‘Nu trebuie sǎ te panichezi’ înseamnǎ ",as: [['s', 'E necesar sǎ nu te panichezi.'],['k','Nu e necesar sǎ te panichezi.']]}, 
                                        "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Nu trebuie sǎ te panichezi’ în contextul ‘Nu trebuie sǎ te panichezi. Profesoara va da un test uşor.’?"}],
-[["MODALITYNEGATION-necessarynot",2], "Question", {q:" Ȋn ‘Nu trebuie sǎ se panicheze. Urşii îl vor ataca altfel.’, ‘Nu trebuie sǎ se panicheze.’ înseamnǎ ",as: [['s', ‘E necesar sǎ nu se panicheze.'],['k','Nu e necesar sǎ se panicheze.']]}, 
+[["MODALITYNEGATION-necessarynot",2], "Question", {q:" Ȋn ‘Nu trebuie sǎ se panicheze. Urşii îl vor ataca altfel.’, ‘Nu trebuie sǎ se panicheze.’ înseamnǎ ",as: [['s', 'E necesar sǎ nu se panicheze.'],['k','Nu e necesar sǎ se panicheze.']]}, 
                                        "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Nu trebuie sǎ se panicheze’ în contextul ‘Nu trebuie sǎ se panicheze. Urşii îl vor ataca altfel.’?"}],
 [["MODALITYNEGATION-notnecessary",3], "Question", {q:" Ȋn ‘Nu trebuie sǎ fie tristǎ. Mama ei va gǎsi pǎpuşa.’, ‘Nu trebuie sǎ fie tristǎ.’ înseamnǎ ",as: [['s','E necesar sǎ nu fie tristǎ.'],['k','Nu e necesar sǎ fie tristǎ.']]}, 
                                        "AcceptabilityJudgment", {s: " Cât de acceptabilǎ este ‘Nu trebuie sǎ fie tristǎ.’ în contextul  ‘Nu trebuie sǎ fie tristǎ. Mama ei va gǎsi pǎpuşa.’?"}],
-[["MODALITYNEGATION-necessarynot",3], "Question", {q:" Ȋn ‘Nu trebuie sǎ fie tristǎ. Va distruge petrecerea altfel.’, ‘Nu trebuie sǎ fie tristǎ.’ înseamnǎ", as: : [['s','E necesar sǎ nu fie tristǎ.'],['k','Nu e necesar sǎ fie tristǎ.']]}, 
+[["MODALITYNEGATION-necessarynot",3], "Question", {q:" Ȋn ‘Nu trebuie sǎ fie tristǎ. Va distruge petrecerea altfel.’, ‘Nu trebuie sǎ fie tristǎ.’ înseamnǎ", as: [['s','E necesar sǎ nu fie tristǎ.'],['k','Nu e necesar sǎ fie tristǎ.']]}, 
                                        "AcceptabilityJudgment", {s: " Cât de acceptabilǎ este ‘Nu trebuie sǎ fie tristǎ.’ în contextul ‘Nu trebuie sǎ fie tristǎ. Va distruge petrecerea altfel.’?"}],
 [["MODALITYNEGATION-notnecessary",4], "Question", {q:" Ȋn ‘Nu trebuie sǎ fii furios. Bǎrbatul te va rǎsplǎti pentru eforturile tale.’, ‘Nu trebuie sǎ fii furios.’ înseamnǎ ",as: [['s', 'E necesar sǎ nu fii furios.'],['k','Nu e necesar sǎ fii furios.']]}, 
                                        "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Nu trebuie sǎ fii furios.’ în contextul 'E necesar sǎ nu fii furios ‘Nu trebuie sǎ fii furios. Bǎrbatul te va rǎsplǎti pentru eforturile tale.’?"}],
 [["MODALITYNEGATION-necessarynot",4], "Question", {q:" Ȋn ‘Nu trebuie sǎ fii furios. Mama ta te va pedepsi altfel.’,‘ Nu trebuie sǎ fii furios.’ înseamnǎ ",as: [['s', 'E necesar sǎ nu fii furios.'],['k','Nu e necesar sǎ fii furios.']]}, 
                                        "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Nu trebuie sǎ fii furios.’ în contextul ‘Nu trebuie sǎ fii furios. Mama ta te va pedepsi altfel.’?"}],
-[["MODALITYNEGATION-notnecessary",5], "Question", {q:" Ȋn ‘Tom nu trebuie sǎ mǎnânce pâine. Nu se va usca pânǎ mâine.’, ‘Tom nu trebuie sǎ mǎnânce pâine.’ înseamnǎ ",as: [['s','E necesar ca Tom sǎ nu mǎnânce pâine.'],['k',''Nu e necesar ca Tom sǎ  mǎnânce pâine.']]},
+[["MODALITYNEGATION-notnecessary",5], "Question", {q:" Ȋn ‘Tom nu trebuie sǎ mǎnânce pâine. Nu se va usca pânǎ mâine.’, ‘Tom nu trebuie sǎ mǎnânce pâine.’ înseamnǎ ",as: [['s','E necesar ca Tom sǎ nu mǎnânce pâine.'],['k','Nu e necesar ca Tom sǎ  mǎnânce pâine.']]},
                                        "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Tom nu trebuie sǎ mǎnânce pâine.’ în contextul ‘Tom nu trebuie sǎ mǎnânce pâine. Nu se va usca pânǎ mâine.’?"}],
-[["MODALITYNEGATION-necessarynot",5], "Question", {q:" Ȋn ‘Tom nu trebuie sǎ mǎnânce pâine. Ȋi vin rudele în vizitǎ.’, ‘Tom nu trebuie sǎ mǎnânce pâine’ înseamnǎ ",as: [['s','E necesar ca Tom sǎ nu mǎnânce pâine.'],['k',''Nu e necesar ca Tom sǎ  mǎnânce pâine.']]},
+[["MODALITYNEGATION-necessarynot",5], "Question", {q:" Ȋn ‘Tom nu trebuie sǎ mǎnânce pâine. Ȋi vin rudele în vizitǎ.’, ‘Tom nu trebuie sǎ mǎnânce pâine’ înseamnǎ ",as: [['s','E necesar ca Tom sǎ nu mǎnânce pâine.'],['k','Nu e necesar ca Tom sǎ  mǎnânce pâine.']]},
                                        "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Tom nu trebuie sǎ mǎnânce pâine.’ în contextul ‘Tom nu trebuie sǎ mǎnânce pâine. Ȋi vin rudele în vizitǎ.’?"}],
 [["MODALITYNEGATION-notnecessary",6], "Question", {q:" Ȋn ‘Nu trebuie sǎ lucrezi la proiect. Bill  l-a terminat deja.’, ‘Nu trebuie sǎ lucrezi la proiect.’ înseamnǎ ",as: [['s','E necesar sǎ nu lucrezi la proiect.'],['k','Nu e necesar sǎ lucrezi la proiect.']]},
                                        "AcceptabilityJudgment", {s: " Cât de acceptabilǎ este ‘Nu trebuie sǎ lucrezi la proiect.’ în contextul ‘Nu trebuie sǎ lucrezi la proiect. Bill l-a terminat deja.’?"}],
@@ -122,7 +122,7 @@ var items = [
 
 
 //// Fillers
-[["filler-should",9],"Question", {q:" Ȋn ‘Maria nu ar trebui sǎ fie supǎratǎ. Tatǎl ei îi va da o nouǎ maşinǎ.’, ‘Maria nu ar trebui sǎ fie supǎratǎ.’ înseamnǎ",as: [['s',Este necesar ca Maria sǎ nu fie supǎratǎ.'],['k','Nu e necesar ca Maria sǎ fie supǎratǎ.']]},
+[["filler-should",9],"Question", {q:" Ȋn ‘Maria nu ar trebui sǎ fie supǎratǎ. Tatǎl ei îi va da o nouǎ maşinǎ.’, ‘Maria nu ar trebui sǎ fie supǎratǎ.’ înseamnǎ",as: [['s','Este necesar ca Maria sǎ nu fie supǎratǎ.'],['k','Nu e necesar ca Maria sǎ fie supǎratǎ.']]},
                      "AcceptabilityJudgment", {s: " Cât de acceptabilǎ este ‘Maria nu ar trebui sǎ fie supǎratǎ.’ în contextul ‘Maria nu ar trebui sǎ fie supǎratǎ. Tatǎl ei îi va da o nouǎ maşinǎ.’?"}],          
 [["filler-should",10], "Question", {q:"In ‘Nu ar trebui sǎ te enervezi. Soţia ta îţi va pregǎti cina.’, ‘Nu ar trebui sǎ te enervezi.’ înseamnǎ ",as: [['s','Este necesar sǎ nu te enervezi.'],['k','Nu este necesar sǎ te enervezi.']]},
                        "AcceptabilityJudgment", {s: "Cât de acceptabilǎ este ‘Nu ar trebui sǎ te enervezi.’ în  contextul ‘Nu ar trebui sǎ te enervezi. Soţia ta îţi va pregǎti cina.’?"}],
@@ -161,8 +161,6 @@ var items = [
 
 
     ]   
-
-
 
 
 
